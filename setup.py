@@ -61,7 +61,7 @@ setup(
     url='https://github.com/NeonGeckoCom/template-neon-stt-plugin',  # TODO: Update link
     author='Neongecko',
     author_email='developers@neon.ai',
-    license='NeonAI License v1.0',
+    license='BSD-3.0',
     packages=find_packages(),
     install_requires=get_requirements("requirements.txt"),
     zip_safe=True,
